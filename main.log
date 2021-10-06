@@ -1,0 +1,1397 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.22)  16 AUG 2021 12:27
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-06-18>
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count190
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count191
+\leftroot@=\count192
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count193
+\DOTSCASE@=\count194
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
+\dotsspace@=\muskip16
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks17
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.
+sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box52
+\extrarowheight=\dimen149
+\NC@list=\toks21
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box53
+)
+\everycr=\toks22
+\minrowclearance=\skip54
+)
+\rownum=\count268
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
+sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip55
+\enit@outerparindent=\dimen152
+\enit@toks=\toks24
+\enit@inbox=\box54
+\enit@count@id=\count269
+\enitdp@description=\count270
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
+sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+) (C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y
+Package: babel 2021/06/02 3.60 The Babel package
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count272
+\U@D=\dimen153
+\l@unhyphenated=\language83
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count273
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerm
+an.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerm
+anb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/anysize\anysize.st
+y
+Package: anysize 1994/08/13 setting margin sizes
+
+document style option `anysize' loaded
+Michael Salzenberg, Thomas Esser, Dirk Hillbrecht
+Version 1.0, Aug 13, 1994
+\@Leftmargin=\dimen154
+\@Rightmargin=\dimen155
+\@Topmargin=\dimen156
+\@Bottommargin=\dimen157
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
+ty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
+sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eqnarray\eqnarray.
+sty
+equationarray 1.3 <December 1, 2010>
+Package: eqnarray 
+\@eqargcnt=\count274
+)
+\c@mydef=\count275
+\c@alg=\count276
+ (C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.
+sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chemformula\chemfo
+rmula.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/frontendlayer\
+tikz.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfr
+cs.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common.tex
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-common-lists.tex))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+futil-latex.def
+\pgfutil@abb=\box55
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+frcs.code.tex
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision
+.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf
+core.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/systemlayer\pg
+fsys.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count277
+\c@pgf@countb=\count278
+\c@pgf@countc=\count279
+\c@pgf@countd=\count280
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count281
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count282
+\pgfsyssoftpath@bigbuffer@items=\count283
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/systemlayer\
+pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+calc.code.tex
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+util.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+parser.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count284
+\pgfmath@box=\box56
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.code.tex
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.basic.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.trigonometric.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.random.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.comparison.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.base.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.round.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.misc.code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+functions.integerarithmetics.code.tex)))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+float.code.tex
+\c@pgfmathroundto@lastzeros=\count285
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfint.
+code.tex)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box57
+\pgf@hbox=\box58
+\pgf@layerbox@main=\box59
+\pgf@picture@serial@count=\count286
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen189
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen193
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count287
+\pgf@shadingcount=\count288
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box60
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/basiclayer\p
+gfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box61
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+oduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/compatibility\
+pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgff
+or.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfk
+eys.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+fkeys.code.tex))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.s
+ty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pg
+ffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/math\pgfmath
+.code.tex)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count289
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box62
+\tikz@figbox@bg=\box63
+\tikz@tempbox=\box64
+\tikz@tempbox@bg=\box65
+\tikztreelevel=\count290
+\tikznumberofchildren=\count291
+\tikznumberofcurrentchild=\count292
+\tikz@fig@count=\count293
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/modules\pgfm
+odulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count294
+\pgfmatrixcurrentcolumn=\count295
+\pgf@matrix@numberofcolumns=\count296
+)
+\tikz@expandcount=\count297
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/frontendlaye
+r/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xfrac\x
+frac.sty
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-06-18 L3 programming layer (loader) 
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count298
+\l__pdf_internal_box=\box66
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
+e\l3keys2e.sty
+Package: l3keys2e 2021-06-18 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
+xparse.sty
+Package: xparse 2021-06-18 L3 Experimental document command parser
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xtempla
+te\xtemplate.sty
+Package: xtemplate 2021-06-18 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen264
+\l__xtemplate_tmp_int=\count299
+\l__xtemplate_tmp_muskip=\muskip18
+\l__xtemplate_tmp_skip=\skip56
+)
+Package: xfrac 2021-06-18 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box67
+\l__xfrac_tmp_box=\box68
+\l__xfrac_denominator_bot_sep_dim=\dimen265
+\l__xfrac_numerator_bot_sep_dim=\dimen266
+\l__xfrac_numerator_top_sep_dim=\dimen267
+\l__xfrac_slash_left_sep_dim=\dimen268
+\l__xfrac_slash_right_sep_dim=\dimen269
+\l__xfrac_slash_left_muskip=\muskip19
+\l__xfrac_slash_right_muskip=\muskip20
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/units\nicefrac.sty
+Package: nicefrac 1998/08/04 v0.9b Nice fractions
+\L@UnitsRaiseDisplaystyle=\skip57
+\L@UnitsRaiseTextstyle=\skip58
+\L@UnitsRaiseScriptstyle=\skip59
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/libraries\pg
+flibraryarrows.meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowinset=\dimen270
+\pgfarrowlength=\dimen271
+\pgfarrowwidth=\dimen272
+\pgfarrowlinewidth=\dimen273
+)
+Package: chemformula 2020/12/22 v4.16 typeset chemical compounds and reactions 
+(CN)
+\l__chemformula_tmpa_dim=\dimen274
+\l__chemformula_tmpb_dim=\dimen275
+\l__chemformula_tmpc_dim=\dimen276
+\l__chemformula_tmpa_int=\count300
+\l__chemformula_tmpb_int=\count301
+\l__chemformula_tmpc_int=\count302
+\l__chemformula_tmpa_box=\box69
+\l__chemformula_tmpb_box=\box70
+\l__chemformula_arrow_length_dim=\dimen277
+\l__chemformula_arrow_label_height_dim=\dimen278
+\l__chemformula_arrow_label_offset_dim=\dimen279
+\l__chemformula_arrow_minimum_length_dim=\dimen280
+\l__chemformula_arrow_shortage_dim=\dimen281
+\l__chemformula_arrow_offset_dim=\dimen282
+\l__chemformula_arrow_yshift_dim=\dimen283
+\l__chemformula_radical_radius_dim=\dimen284
+\l__chemformula_radical_hshift_dim=\dimen285
+\l__chemformula_radical_vshift_dim=\dimen286
+\l__chemformula_radical_space_dim=\dimen287
+\l__chemformula_arrow_head_dim=\dimen288
+\l__chemformula_name_dim=\dimen289
+\l__chemformula_adduct_space_dim=\dimen290
+\l__chemformula_charge_shift_dim=\dimen291
+\l__chemformula_subscript_shift_dim=\dimen292
+\l__chemformula_superscript_shift_dim=\dimen293
+\l__chemformula_subscript_dim=\dimen294
+\l__chemformula_superscript_dim=\dimen295
+\l__chemformula_bond_dim=\dimen296
+\l__chemformula_bond_space_dim=\dimen297
+\l__chemformula_elspec_pair_distance_dim=\dimen298
+\l__chemformula_elspec_pair_line_length_dim=\dimen299
+\l__chemformula_elspec_pair_width_dim=\dimen300
+\l__chemformula_kroegervink_positive_radius_dim=\dimen301
+\l__chemformula_kroegervink_positive_hshift_dim=\dimen302
+\l__chemformula_kroegervink_positive_vshift_dim=\dimen303
+\l__chemformula_kroegervink_positive_space_dim=\dimen304
+\l__chemformula_stoich_space_skip=\skip60
+\l__chemformula_math_space_skip=\skip61
+\l__chemformula_additions_symbol_space_skip=\skip62
+\l__chemformula_count_tokens_int=\count303
+\g__chemformula_lewis_int=\count304
+\l__chemformula_arrow_arg_i_box=\box71
+\l__chemformula_arrow_arg_ii_box=\box72
+\l__chemformula_superscript_box=\box73
+\l__chemformula_subscript_box=\box74
+\l__chemformula_plus_space_skip=\skip63
+\l__chemformula_minus_space_skip=\skip64
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count305
+\mult@box=\box75
+\multicol@leftmargin=\dimen305
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen306
+\page@free=\dimen307
+\premulticols=\dimen308
+\postmulticols=\dimen309
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box76
+\last@line=\box77
+\maxbalancingoverflow=\dimen310
+\mult@rightbox=\box78
+\mult@grightbox=\box79
+\mult@gfirstbox=\box80
+\mult@firstbox=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\c@minrows=\count311
+\c@columnbadness=\count312
+\c@finalcolumnbadness=\count313
+\last@try=\dimen311
+\multicolovershoot=\dimen312
+\multicolundershoot=\dimen313
+\mult@nat@firstbox=\box119
+\colbreak@box=\box120
+\mc@col@check@num=\count314
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip67
+\multirow@cntb=\count315
+\multirow@dima=\skip68
+\bigstrutjot=\dimen314
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen315
+\captionmargin@=\dimen316
+\captionwidth=\dimen317
+\caption@tempdima=\dimen318
+\caption@indent=\dimen319
+\caption@parindent=\dimen320
+\caption@hangindent=\dimen321
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count316
+\c@continuedfloat=\count317
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fmtcount.
+sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
+y
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
+tex
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
+.tex
+\XKV@toks=\toks39
+\XKV@tempa@toks=\toks40
+)
+\XKV@depth=\count318
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcprefix.
+sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fcnumpars
+er.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count319
+))
+\c@padzeroesN=\count320
+\fc@tmpcatcode=\count321
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-ngerma
+n.def
+File: fc-ngerman.def 2012/06/18
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-german
+.def
+File: fc-german.def 2018/06/17
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-german
+b.def
+File: fc-germanb.def 2013/08/17
+))
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fmtcount\fc-ngerma
+nb.def
+File: fc-ngermanb.def 2013/08/17
+))
+\@DT@modctr=\count322
+\@ordinalctr=\count323
+\@orgargctr=\count324
+\@strctr=\count325
+\@tmpstrctr=\count326
+\@DT@loopN=\count327
+\@DT@X=\count328
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.st
+y
+\wrapoverhang=\dimen322
+\WF@size=\dimen323
+\c@WF@wrappedlines=\count329
+\WF@box=\box121
+\WF@everypar=\toks41
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count330
+\float@exts=\toks42
+\float@box=\box122
+\@float@everytoks=\toks43
+\@floatcapt=\box123
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen324
+\TX@old@table=\dimen325
+\TX@old@col=\dimen326
+\TX@target=\dimen327
+\TX@delta=\dimen328
+\TX@cols=\count331
+\TX@ftn=\toks44
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlay
+er-scrpage.sty
+Package: scrlayer-scrpage 2021/03/17 v3.33 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlay
+er.sty
+Package: scrlayer 2021/03/17 v3.33 KOMA-Script package (defining layers and pag
+e styles)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkba
+se.sty
+Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbas
+e.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
+le.sty
+Package: scrlfile 2021/03/17 v3.33 KOMA-Script package (file load hooks)
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfi
+le-hook.sty
+Package: scrlfile-hook 2021/03/17 v3.33 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlog
+o.sty
+Package: scrlogo 2021/03/17 v3.33 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw option list on input line 252.
+Already applied: [0000/00/00] compatibility for LaTeX before 2021/05/01 on inpu
+t line 337.
+))
+==> First Aid for scrkbase.sty no longer applied!
+\footheight=\skip69
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+))
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=standard'.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lastpage\lastpage.
+sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
+7.
+ (C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count332
+\scratchdimen=\dimen329
+\scratchbox=\box124
+\nofMPsegments=\count333
+\nofMParguments=\count334
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen330
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
+\everyMPtoPDFconversion=\toks46
+)
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\epstopdf-
+sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/lmr/m/n --> TS1/lmr/b/n on input line 67.
+Package gensymb Info: Math companion symbols declared on input line 67.
+LaTeX Info: Redefining \degree on input line 67.
+LaTeX Info: Redefining \celsius on input line 67.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 67.
+LaTeX Info: Redefining \ohm on input line 67.
+Package gensymb Info: Using \textohm for \ohm on input line 67.
+Package gensymb Info: Using \textmu for \micro on input line 67.
+Package scrlayer Info: Setting magic \footheight to \baselineskip while
+(scrlayer)             \begin{document} on input line 67.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 67.
+ (sections/geometrie.tex
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+1.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+1.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 1.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+.
+
+(C:\Users\Cedric\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 8--32
+[]|[]| 
+ []
+
+<kreis.png, id=4, 177.36263pt x 174.6525pt>
+File: kreis.png Graphic file (type png)
+<use kreis.png>
+Package pdftex.def Info: kreis.png  used on input line 40.
+(pdftex.def)             Requested size: 159.3356pt x 156.9033pt.
+
+Overfull \vbox (116.50334pt too high) detected at line 40
+ []
+
+<kartesische.png, id=6, 435.72787pt x 333.34537pt>
+File: kartesische.png Graphic file (type png)
+<use kartesische.png>
+Package pdftex.def Info: kartesische.png  used on input line 58.
+(pdftex.def)             Requested size: 159.3356pt x 121.89638pt.
+<zylindrische.png, id=7, 478.78876pt x 343.2825pt>
+File: zylindrische.png Graphic file (type png)
+<use zylindrische.png>
+Package pdftex.def Info: zylindrische.png  used on input line 58.
+(pdftex.def)             Requested size: 159.3356pt x 114.2369pt.
+<spherische.png, id=8, 492.03825pt x 347.19713pt>
+File: spherische.png Graphic file (type png)
+<use spherische.png>
+Package pdftex.def Info: spherische.png  used on input line 58.
+(pdftex.def)             Requested size: 159.3356pt x 112.4298pt.
+
+Overfull \hbox (8.34766pt too wide) in paragraph at lines 39--67
+[]|[]| 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 37--99
+[]|[]| 
+ []
+
+
+Overfull \hbox (20.3472pt too wide) in paragraph at lines 1--104
+ [][] 
+ []
+
+) (sections/wellen.tex [1{C:/Users/Cedric/AppData/Local/MiKTeX/2.9/pdftex/confi
+g/pdftex.map}
+
+]
+Overfull \vbox (0.47112pt too high) has occurred while \output is active []
+
+
+[2 <./kreis.png> <./kartesische.png> <./zylindrische.png> <./spherische.png>]
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 11--41
+[]|[]| 
+ []
+
+<polarisation.png, id=32, 1454.43375pt x 315.42844pt>
+File: polarisation.png Graphic file (type png)
+<use polarisation.png>
+Package pdftex.def Info: polarisation.png  used on input line 85.
+(pdftex.def)             Requested size: 506.45914pt x 109.83847pt.
+<doppler.jpg, id=33, 394.09735pt x 134.75343pt>
+File: doppler.jpg Graphic file (type jpg)
+<use doppler.jpg>
+Package pdftex.def Info: doppler.jpg  used on input line 108.
+(pdftex.def)             Requested size: 85.35826pt x 29.18526pt.
+
+Overfull \hbox (7.54724pt too wide) in paragraph at lines 48--119
+[]|[]| 
+ []
+
+<huygens2.png, id=34, 314.67563pt x 211.08862pt>
+File: huygens2.png Graphic file (type png)
+<use huygens2.png>
+Package pdftex.def Info: huygens2.png  used on input line 167.
+(pdftex.def)             Requested size: 199.16928pt x 133.60495pt.
+
+Overfull \hbox (7.54724pt too wide) in paragraph at lines 127--176
+[]|[]| 
+ []
+
+
+Overfull \hbox (20.39172pt too wide) in paragraph at lines 4--179
+ [][] 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 4--179
+ [] 
+ []
+
+
+Overfull \vbox (11.14641pt too high) has occurred while \output is active []
+
+
+[3 <./polarisation.png> <./doppler.jpg>]
+Underfull \hbox (badness 2181) in paragraph at lines 194--194
+[]$\OML/lmm/m/it/10 \OT1/lmr/m/n/10 (\OML/lmm/m/it/10 x; t\OT1/lmr/m/n/10 ) = 
+[] + [] =
+ []
+
+<spalt.png, id=41, 211.69087pt x 99.07013pt>
+File: spalt.png Graphic file (type png)
+<use spalt.png>
+Package pdftex.def Info: spalt.png  used on input line 212.
+(pdftex.def)             Requested size: 199.16928pt x 93.21057pt.
+
+Overfull \hbox (7.54724pt too wide) in paragraph at lines 185--217
+[]|[]| 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 181--220
+ [][] 
+ []
+
+) (sections/maxwell.tex [4 <./huygens2.png>]
+Overfull \hbox (4.10704pt too wide) in paragraph at lines 13--13
+ []|$\OMS/lmsy/m/n/10 ([])$| 
+ []
+
+
+Overfull \hbox (0.68417pt too wide) in paragraph at lines 13--13
+[]|\OT1/lmr/m/n/10 Gauss|  
+ []
+
+
+Overfull \hbox (4.10704pt too wide) in paragraph at lines 20--20
+ []|$\OMS/lmsy/m/n/10 ([])$| 
+ []
+
+
+Overfull \hbox (0.68417pt too wide) in paragraph at lines 20--20
+[]|\OT1/lmr/m/n/10 Gauss|  
+ []
+
+
+Overfull \hbox (4.10704pt too wide) in paragraph at lines 31--31
+ []|$\OMS/lmsy/m/n/10 ([])$| 
+ []
+
+
+Overfull \hbox (2.2264pt too wide) in paragraph at lines 31--31
+[]|\OT1/lmr/m/n/10 Stokes|  
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 35--35
+[]\OT1/lmr/m/n/10 Die (elek-tri-sche) Zir-ku-la-ti-on []uber der
+ []
+
+
+Overfull \hbox (4.10704pt too wide) in paragraph at lines 40--40
+ []|$\OMS/lmsy/m/n/10 ([])$| 
+ []
+
+
+Overfull \hbox (2.2264pt too wide) in paragraph at lines 40--40
+[]|\OT1/lmr/m/n/10 Stokes|  
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 43--43
+[]\OT1/lmr/m/n/10 Die ma-gne-ti-sche Zir-ku-la-ti-on []uber der
+ []
+
+) (sections/elektrostatik.tex
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 3--1
+ [][] 
+ []
+
+
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 8--101
+[]|[]| 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 2--103
+ [][] 
+ []
+
+[5 <./spalt.png>]
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 111--135
+[]|[]| 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 106--137
+ [][] 
+ []
+
+[6]) (sections/magnetostatik.tex
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 6--73
+[]|[]| 
+ []
+
+) (sections/stroeme.tex
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 6--38
+[]|[]| 
+ []
+
+) (sections/kondensator.tex
+
+pdfTeX warning: pdflatex.exe (file ./platten.pdf): PDF inclusion: found PDF ver
+sion <1.7>, but at most version <1.5> allowed
+<platten.pdf, id=55, 763.85374pt x 289.08pt>
+File: platten.pdf Graphic file (type pdf)
+<use platten.pdf>
+Package pdftex.def Info: platten.pdf  used on input line 13.
+(pdftex.def)             Requested size: 113.81102pt x 43.069pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./zylinder.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<zylinder.pdf, id=56, 471.7625pt x 271.0125pt>
+File: zylinder.pdf Graphic file (type pdf)
+<use zylinder.pdf>
+Package pdftex.def Info: zylinder.pdf  used on input line 18.
+(pdftex.def)             Requested size: 99.58464pt x 57.2079pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./kugel.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<kugel.pdf, id=57, 311.1625pt x 311.1625pt>
+File: kugel.pdf Graphic file (type pdf)
+<use kugel.pdf>
+Package pdftex.def Info: kugel.pdf  used on input line 24.
+(pdftex.def)             Requested size: 85.35826pt x 85.35866pt.
+
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 6--52
+[]|[]| 
+ []
+
+) (sections/induktivität.tex
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 6--26
+[]|[]| 
+ []
+
+) (sections/netzwerk.tex
+<maschen.png, id=58, 390.258pt x 209.28188pt>
+File: maschen.png Graphic file (type png)
+<use maschen.png>
+Package pdftex.def Info: maschen.png  used on input line 8.
+(pdftex.def)             Requested size: 512.1496pt x 274.65302pt.
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 5--10
+[]|[]| 
+ []
+
+) (sections/schwingkreis.tex)
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--91
+ [][] 
+ []
+
+
+Overfull \hbox (8.3472pt too wide) in paragraph at lines 1--91
+ [] 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--91
+ [] 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--91
+ [] 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--91
+ [] 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--91
+ [] 
+ []
+
+[7] [8 <./platten.pdf> <./zylinder.pdf> <./kugel.pdf>]
+(sections/relativität.tex
+<gamma.png, id=116, 559.7161pt x 366.61969pt>
+File: gamma.png Graphic file (type png)
+<use gamma.png>
+Package pdftex.def Info: gamma.png  used on input line 64.
+(pdftex.def)             Requested size: 156.49014pt x 102.50177pt.
+
+Overfull \vbox (40.1018pt too high) detected at line 64
+ []
+
+
+Overfull \hbox (5.69046pt too wide) in paragraph at lines 64--64
+[]|[]|  
+ []
+
+
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 6--120
+[]|[]| 
+ []
+
+
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 1--122
+ [][] 
+ []
+
+[9 <./maschen.png>]
+<Minkowski.png, id=121, 592.83984pt x 573.64313pt>
+File: Minkowski.png Graphic file (type png)
+<use Minkowski.png>
+Package pdftex.def Info: Minkowski.png  used on input line 131.
+(pdftex.def)             Requested size: 341.43306pt x 330.38492pt.
+
+Overfull \hbox (1.85677pt too wide) in paragraph at lines 129--183
+[]|[]| 
+ []
+
+)
+Overfull \hbox (8.39172pt too wide) in paragraph at lines 124--95
+ [][] 
+ []
+
+[10 <./gamma.png>] 
+AED: lastpage setting LastPage
+[11 <./Minkowski.png>] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 20676 strings out of 478804
+ 437522 string characters out of 2844006
+ 839423 words of memory out of 3000000
+ 38170 multiletter control sequences out of 15000+600000
+ 437565 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,43n,122p,550b,635s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/Cedric/AppData/Local/Programs/MiKT
+eX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Users/Cedric/AppData/Local/Programs/MiK
+TeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Users/Cedric/AppData/Local/Program
+s/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Users/Cedric/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}<C:/Users/Cedric/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Cedric/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Cedric/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmbx7.pfb><C:/Users/Cedr
+ic/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Users
+/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/
+Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi5.pfb>
+<C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lmmi7.
+pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/lm/lm
+mib10.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/lm/lmr10.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmr5.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/lm/lmr7.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmro10.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/lm/lmsy10.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/lm/lmsy5.pfb><C:/Users/Cedric/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/lm/lmsy7.pfb><C:/Users/Cedric/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Cedric/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on main.pdf (11 pages, 1252739 bytes).
+PDF statistics:
+ 204 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+
